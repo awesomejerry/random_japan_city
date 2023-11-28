@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[Website](https://random-japan-city.web.app/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
